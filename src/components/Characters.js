@@ -46,7 +46,7 @@ export default function Characters(props) {
           </div>
         ))}
       </div>
-      <a href="App.js" onClick={resetCharacters}>Volver</a>
+      <a href="/" onClick={resetCharacters}>Volver</a>
       
     </div>
   );
